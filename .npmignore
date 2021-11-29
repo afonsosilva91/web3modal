@@ -15,7 +15,7 @@ yarn.lock
 # project files
 src
 test
-dist
+#dist
 images
 scripts
 example
